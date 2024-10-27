@@ -1,11 +1,19 @@
 body { 
 	background-color: #ffffff;
 }
-
+/*divs*/
 #titolo { 
 	width: 100%;
 	color: #ffc65c;
 	border: 1px solid red;
 	text-align: center;
 	font-weight: bold;
+}
+
+/*testi*/
+#testoTitolo {
+	text-align: center;
+	font-family: "Lobster";
+	font-size: 3em;
+	border: 1px solid blue;
 }
